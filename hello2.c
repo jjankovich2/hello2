@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("JT Jankovich\n");
+  printf("This was updated September 19, 2022 to test git from command line\n");
   printf("Computer Science\n");
   
   printf("Andrew Peterson\n");
